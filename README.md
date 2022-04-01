@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Mohammad Shafiul Islam
+
 #### I am a passionate frontend developer from Bangladesh
 ![I am a passionate frontend developer from Bangladesh](https://scontent.fdac37-1.fna.fbcdn.net/v/t1.6435-9/201421526_2739195823037329_2889208556014677094_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGew4ZFf87iqay0puWSofLdqMQc0Y3YRpmoxBzRjdhGmVGVfUmTra6iwPGMVUtdwuOE6jMxWR_0Zo6eT1fNePTF&_nc_ohc=AVaJASgRaHAAX9fx36a&_nc_ht=scontent.fdac37-1.fna&oh=00_AT8t5bjRtLYfT5k_fPEnz0DyLgYLc4ZWhaUG0mm5tOPM1w&oe=622BAB57)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shafiuljony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shafiuljony12) 
@@ -8,10 +9,15 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on REACT. 
+
 - 🌱 I’m currently learning JavaScript 
+
 - 👯 I’m looking to collaborate on github 
+
 - 🤔 I’m looking for help with React 
+
 - 💬 Ask me about Anything 
+
 - 📫 How to reach me: shafiuljony12@gmail.com
 
 
