@@ -4,7 +4,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shafiuljony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shafiuljony12) 
 
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / NEXT
 
 - 🔭 I’m currently working on REACT. 
 
