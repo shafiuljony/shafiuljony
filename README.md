@@ -1,35 +1,17 @@
-### Hi ther! My name is Mohammad Shafiul Islam
-
-#### I am a passionate frontend developer from Bangladesh
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shafiuljony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shafiuljony12) 
 
 
-Skills: REACT / JS / HTML / CSS / NEXT
+### Hey ther! My name is Mohammad Shafiul Islam! 👋
+#### I am a passionate frontend developer from Chattogram,Bangladesh
+  Skills: REACT / JS / HTML / CSS / NEXT
+- 👀 I’m interested in Full Stack Web Development
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning TypeScript, ExpressJS, Python, Machine Learning Algorithm.
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: [![Mail](icons/Gmail_Logo_512px.png)]() shafiuljony@gmail.com
 
-- 🔭 I’m currently working on REACT. 
-
-- 🌱 I’m currently learning JavaScript 
-
-- 👯 I’m looking to collaborate on github 
-
-- 🤔 I’m looking for help with React 
-
-- 💬 Ask me about Anything 
-
-- 📫 How to reach me: shafiuljony12@gmail.com
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shafiuljony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shafiuljony12)  
+- Social Media [![Facebook](icons/Facebook_Logo_(2019).png)](https://www.facebook.com/shafiuljony12/)
+[![Linkedin](icons/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mdshafiulislam12/)
+[![Twitter](icons/Twitter-logo-png.png)](https://twitter.com/shafiul_islam12)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiuljony)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiuljony&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shafiuljony)  
-
-![GitHub metrics](https://metrics.lecoq.io/shafiuljony)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shafiuljony)  
-
-![Profile views](https://gpvc.arturio.dev/shafiuljony)  
+<img src="https://github-readme-stats.vercel.app/api?username=shafiuljony&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="profile stats"/>
