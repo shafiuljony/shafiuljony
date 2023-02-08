@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning TypeScript, ExpressJS, Python, Machine Learning Algorithm.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [![Mail](social-media/icons8-gmail-logo-48.png)]() shafiuljony@gmail.com
+- 📫 How to reach me: shafiuljony@gmail.com
 
 - Social Media [![Facebook](social-media/facebook.png)](https://www.facebook.com/shafiuljony12/)
 [![Linkedin](social-media/linkedin.png)](https://www.linkedin.com/in/mdshafiulislam12/)
