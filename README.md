@@ -3,8 +3,8 @@
   Skills: REACT / JS / HTML / CSS / NEXT
 - 👀 I’m interested in Full Stack Web Development
 - 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning TypeScript, ExpressJS, Python, Machine Learning Algorithm.
-- 👯 I’m looking to collaborate on open source projects.
+- 🌱 I’m learning TypeScript, ExpressJS, Python, and Machine Learning Algorithms.
+- 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: shafiuljony@gmail.com
 
 - Social Media [![Facebook](social-media/facebook.png)](https://www.facebook.com/shafiuljony12/)
